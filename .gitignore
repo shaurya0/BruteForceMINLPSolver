@@ -1,0 +1,9 @@
+obj
+lib
+bin
+*.o
+*.hi
+.hsenv
+*sublime*
+*.*~
+*tags*
